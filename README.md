@@ -7,3 +7,5 @@
 # Archival Tools
 
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)–Generate archives for all your Pinboard bookmarks
+- [download-github-releases](https://github.com/jbmorley/download-github-releases)–Script to download all the releases for a GitHub project
+
