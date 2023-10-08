@@ -2,7 +2,7 @@
 
 - [Bookmarks](https://github.com/inseven/bookmarks)–Pinboard client for iOS and macOS
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
-- [Game Play Color](https://gameplaycolor.com)–Game Boy Color Emulator for iOS
+- [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
 
 # Swift Libraries
 
