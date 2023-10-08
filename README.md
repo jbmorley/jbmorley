@@ -5,6 +5,7 @@
 - [Bookmarks](https://github.com/inseven/bookmarks)–Pinboard client for iOS and macOS
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
+- [Locate](https://github.com/jbmorley/locate)–Show URLs on a map
 - [Multifolder](https://github.com/inseven/multifolder)–Utility for adding multiple folders to macOS Smart Folders
 - [OpoLua](https://github.com/inseven/opolua)–A compiled-OPL interpreter for iOS written in Lua
 
