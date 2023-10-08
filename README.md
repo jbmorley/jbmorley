@@ -4,6 +4,10 @@
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
 
+# Hardware
+
+- [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
+
 # Swift Libraries
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
