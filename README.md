@@ -1,4 +1,4 @@
-# Apps
+# 📱 Apps
 
 - [Bookmarks](https://github.com/inseven/bookmarks)–Pinboard client for iOS and macOS
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
