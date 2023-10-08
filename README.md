@@ -7,6 +7,7 @@
 # Hardware
 
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
+- [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 
 # Swift Libraries
 
