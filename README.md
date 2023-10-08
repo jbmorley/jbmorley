@@ -1,20 +1,20 @@
-# 📱 Apps
+# Apps
 
 - [Bookmarks](https://github.com/inseven/bookmarks)–Pinboard client for iOS and macOS
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
 - [OpoLua](https://github.com/inseven/opolua)–A compiled-OPL interpreter for iOS written in Lua
 
-# ⌨️ Hardware
+# Hardware
 
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 
-# 🔨 Development Tools
+# Development Tools
 
 - [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 
-# 🐦‍⬛ Swift Libraries
+# Swift Libraries
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
