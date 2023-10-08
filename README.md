@@ -6,14 +6,14 @@
 
 # Hardware
 
-- [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
+- [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 
 # Swift Libraries
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
-- [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
+- [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
 
 # Development Tools
 
