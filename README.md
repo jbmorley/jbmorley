@@ -1,5 +1,3 @@
-Check out my [website](https://jbmorley.co.uk).
-
 # Swift Libraries
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
