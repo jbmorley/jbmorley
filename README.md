@@ -1,4 +1,4 @@
-👋🏻 Hi, I'm Jason. I create things. Check out my [website](https://jbmorley.co.uk) if you're interested in me, the ideas behind my software and hardware projects, and what I get up to elsewhere in life. Otherwise, take a look at some of the things I've done around here:
+👋🏻 Hi, I'm Jason. I create things. Check out my [website](https://jbmorley.co.uk) if you're interested in me, the ideas behind my software and hardware projects, and what I get up to elsewhere in life. Otherwise, take a look at some of the things I've done around here.
 
 # Apps
 
