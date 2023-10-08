@@ -10,15 +10,15 @@
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 
-# 🛠️ Swift Libraries
+# 🔨 Development Tools
+
+- [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
+
+# 🐦‍⬛ Swift Libraries
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
 - [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
-
-# Development Tools
-
-- [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
  
 # Archival Tools
 
