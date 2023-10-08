@@ -4,6 +4,10 @@
 - [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
 
+# Development Tools
+
+- [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
+ 
 # Archival Tools
 
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)–Generate archives for all your Pinboard bookmarks
