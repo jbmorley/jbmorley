@@ -25,8 +25,8 @@
 
 # Development Tools
 
-- [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 - [build-tools](https://github.com/jbmorley/build-tools)–Collection of convenience build tools for iOS and macOS development
+- [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 - [git-tools](https://github.com/jbmorley/git-tools)–Git Aliases and Commands
 - [github-status](https://github.com/jbmorley/github-status)–Light-weight command line utility for showing the status of GitHub projects
 
