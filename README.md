@@ -36,13 +36,15 @@
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)–Download the current bing.com image to a directory, optionally setting it as the desktop
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)–Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 
-# Swift Libraries
-
-- [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
-- [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
-- [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
- 
 # Archival Tools
 
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)–Generate archives for all your Pinboard bookmarks
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)–Script to download all the releases for a GitHub project
+
+# Libraries
+
+## SwiftUI
+
+- [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
+- [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
+- [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
