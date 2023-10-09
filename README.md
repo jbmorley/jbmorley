@@ -18,8 +18,8 @@
 - [MiSTer Case](https://github.com/jbmorley/mister-case)-Laser-cut case for the MiSTer
 - [PsiBoard](https://github.com/jbmorley/psiboard)–Psion Series 5 based bluetooth keyboard
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
-- [TinyBoard](https://github.com/inseven/tinyboard)–Bluetooth USB keyboard proxy
 - [Thermal Printer Remix](https://github.com/jbmorley/thermal-printer)–Remixed Raspberry Pi Receipt Printer
+- [TinyBoard](https://github.com/inseven/tinyboard)–Bluetooth USB keyboard proxy
 
 # Development Tools
 
