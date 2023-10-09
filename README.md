@@ -13,6 +13,7 @@
 
 # Hardware
 
+- [Elsewhere](https://github.com/inseven/elsewhere)–Livestream picture frame
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 - [TinyBoard](https://github.com/inseven/tinyboard)–Bluetooth USB keyboard proxy
