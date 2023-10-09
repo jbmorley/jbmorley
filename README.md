@@ -14,6 +14,7 @@
 # Hardware
 
 - [Elsewhere](https://github.com/inseven/elsewhere)–Livestream picture frame
+- [Hard Drive Case](https://github.com/jbmorley/hard-drive-case)–Pibow-inspired laser-cut hard drive case
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 - [MiSTer Case](https://github.com/jbmorley/mister-case)-Laser-cut case for the MiSTer
 - [PsiBoard](https://github.com/jbmorley/psiboard)–Psion Series 5 based bluetooth keyboard
