@@ -30,6 +30,7 @@
 
 # Utilities
 
+- [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)–Convert Day One journal entries to Markdown and Front Matter
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)–Download the current bing.com image to a directory, optionally setting it as the desktop
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)–Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 
