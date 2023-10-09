@@ -57,5 +57,5 @@
 
 ## Web
 
-- [pattern.js](https://patternjs.com/)–JavaScript Pattern Rendering Library
+- [pattern.js](https://github.com/jbmorley/patternjs)–JavaScript Pattern Rendering Library
 - [x-chart](https://github.com/jbmorley/x-chart)–HTML Extensions for Generating Chart.js Charts
