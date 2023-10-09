@@ -29,17 +29,23 @@
 - [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 - [git-tools](https://github.com/jbmorley/git-tools)–Git Aliases and Commands
 - [github-status](https://github.com/jbmorley/github-status)–Light-weight command line utility for showing the status of GitHub projects
-
-# Utilities
-
-- [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)–Convert Day One journal entries to Markdown and Front Matter
-- [download-bing-image](https://github.com/jbmorley/download-bing-image)–Download the current bing.com image to a directory, optionally setting it as the desktop
-- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)–Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
+- [InContext](https://incontext.app)–Extensible static site generator
 
 # Archival Tools
 
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)–Generate archives for all your Pinboard bookmarks
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)–Script to download all the releases for a GitHub project
+- [Signal Backup](https://github.com/jbmorley/signal-backup)–Backup and Decrypt Signal Desktop Message History
+
+# Utilities
+
+- [configure-prompt](https://github.com/jbmorley/configure-prompt)–Minimal Prompt for Zsh
+- [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)–Interactive script for configuring a Raspberry Pi boot partition
+- [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)–Convert Day One journal entries to Markdown and Front Matter
+- [download-bing-image](https://github.com/jbmorley/download-bing-image)–Download the current bing.com image to a directory, optionally setting it as the desktop
+- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)–Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
+- [Photos Scripts](https://github.com/jbmorley/photos-scripts)–Automation Scripts for Photos.app
+- [update-dns](https://github.com/jbmorley/update-dns)–Cloudflare Dynamic DNS Updater
 
 # Libraries
 
