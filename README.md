@@ -48,3 +48,8 @@
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
 - [SelectableCollectionView](https://github.com/jbmorley/selectablecollectionview)
+
+## Web
+
+- [pattern.js](https://patternjs.com/)–JavaScript Pattern Rendering Library
+- [x-chart](https://github.com/jbmorley/x-chart)–HTML Extensions for Generating Chart.js Charts
