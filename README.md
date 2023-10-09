@@ -17,11 +17,11 @@
 - [Hard Drive Case](https://github.com/jbmorley/hard-drive-case)–Pibow-inspired laser-cut hard drive case
 - [Little Luggable](https://github.com/jbmorley/little-luggable)–Raspberry Pi cyberdeck
 - [MiSTer Case](https://github.com/jbmorley/mister-case)-Laser-cut case for the MiSTer
+- [Pilot](https://github.com/jbmorley/pilot)–Small board for controlling a Raspberry Pi
 - [PsiBoard](https://github.com/jbmorley/psiboard)–Psion Series 5 based bluetooth keyboard
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 - [Thermal Printer Remix](https://github.com/jbmorley/thermal-printer)–Remixed Raspberry Pi Receipt Printer
 - [TinyBoard](https://github.com/inseven/tinyboard)–Bluetooth USB keyboard proxy
-- [Pilot](https://github.com/jbmorley/pilot)–Small board for controlling a Raspberry Pi
 
 # Development Tools
 
