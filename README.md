@@ -21,6 +21,7 @@
 - [StatusPanel](https://github.com/inseven/statuspanel)–eInk desk calendar and status board
 - [Thermal Printer Remix](https://github.com/jbmorley/thermal-printer)–Remixed Raspberry Pi Receipt Printer
 - [TinyBoard](https://github.com/inseven/tinyboard)–Bluetooth USB keyboard proxy
+- [Pilot](https://github.com/jbmorley/pilot)–Small board for controlling a Raspberry Pi
 
 # Development Tools
 
