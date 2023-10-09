@@ -25,9 +25,12 @@
 # Development Tools
 
 - [changes](https://github.com/jbmorley/changes)–Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
+- [build-tools](https://github.com/jbmorley/build-tools)–Collection of convenience build tools for iOS and macOS development
+- [github-status](https://github.com/jbmorley/github-status)–Light-weight command line utility for showing the status of GitHub projects
 
 # Utilities
 
+- [download-bing-image](https://github.com/jbmorley/download-bing-image)–Download the current bing.com image to a directory, optionally setting it as the desktop
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)–Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 
 # Swift Libraries
