@@ -65,3 +65,4 @@
 
 - [Locate](https://github.com/jbmorley/locate)–Show URLs on a map
 - [Photo Export](https://github.com/jbmorley/photo-export)–macOS utility for exporting photos from Apple Photos
+- [Flutter](https://github.com/jbmorley/flutter)–JavaScript Twitter client
