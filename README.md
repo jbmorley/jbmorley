@@ -3,7 +3,7 @@
 # Apps
 
 - [Bookmarks](https://github.com/inseven/bookmarks)–Pinboard client for iOS and macOS
-- [Builds](https://github.com/inseven/builds)–GitHub Actions Status Board
+- [Builds](https://github.com/inseven/builds)–GitHub Actions status board for macOS and iOS
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
 - [Folders](https://github.com/inseven/folders)–Library app for macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
