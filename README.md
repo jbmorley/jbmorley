@@ -53,7 +53,7 @@
 
 - [Diligence](https://github.com/inseven/diligence)–SwiftUI About Screens
 - [Interact](https://github.com/jbmorley/interact)–SwiftUI conveniences for iOS and macOS
-- [SelectableCollectionView](https://github.com/inseven/selectablecollectionview)
+- [SelectableCollectionView](https://github.com/inseven/SelectableCollectionView) 
 
 ## Web
 
