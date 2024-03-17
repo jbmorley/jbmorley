@@ -7,7 +7,6 @@
 - [Fileaway](https://github.com/inseven/fileaway)–Document management app for iOS and macOS
 - [Folders](https://github.com/inseven/folders)–Library app for macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)–Game Boy Color Emulator for iOS
-- [Multifolder](https://github.com/inseven/multifolder)–Utility for adding multiple folders to macOS Smart Folders
 - [OpoLua](https://github.com/inseven/opolua)–A compiled-OPL interpreter for iOS written in Lua
 - [Overview](https://github.com/inseven/overview)–Generate monthly durations for similarly named calendar events
 
@@ -66,4 +65,5 @@
 
 - [Flutter](https://github.com/jbmorley/flutter)–JavaScript Twitter client
 - [Locate](https://github.com/jbmorley/locate)–Show URLs on a map
+- [Multifolder](https://github.com/inseven/multifolder)–Utility for adding multiple folders to macOS Smart Folders
 - [Photo Export](https://github.com/jbmorley/photo-export)–macOS utility for exporting photos from Apple Photos
