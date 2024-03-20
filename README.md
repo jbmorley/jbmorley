@@ -57,6 +57,7 @@
 ## Web
 
 - [pattern.js](https://github.com/jbmorley/patternjs)–JavaScript Pattern Rendering Library
+- [Writeme](https://github.com/jbmorley/writeme)
 - [x-chart](https://github.com/jbmorley/x-chart)–HTML Extensions for Generating Chart.js Charts
 
 ---
