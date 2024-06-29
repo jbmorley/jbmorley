@@ -9,6 +9,7 @@
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)—Game Boy Color Emulator for iOS
 - [OpoLua](https://github.com/inseven/opolua)—A compiled-OPL interpreter for iOS written in Lua
 - [Overview](https://github.com/inseven/overview)—Generate monthly durations for similarly named calendar events
+- [Reconnect](https://github.com/inseven/reconnect)—Psion connectivity for macOS
 - [Thoughts](https://github.com/inseven/thoughts)—Lightweight note taking for macOS
 
 # Hardware
