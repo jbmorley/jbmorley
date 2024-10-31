@@ -50,6 +50,10 @@
 
 # Libraries
 
+## Python
+
+- [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
+
 ## SwiftUI
 
 - [Diligence](https://github.com/inseven/diligence)—SwiftUI About Screens
