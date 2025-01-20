@@ -2,7 +2,6 @@
 
 # Apps
 
-- [Bookmarks](https://github.com/inseven/bookmarks)—Pinboard client for iOS and macOS
 - [Builds](https://github.com/inseven/builds)—GitHub Actions status board for macOS and iOS
 - [Fileaway](https://github.com/inseven/fileaway)—Document management app for iOS and macOS
 - [Folders](https://github.com/inseven/folders)—Library app for macOS
@@ -71,6 +70,7 @@
 
 # Archive
 
+- [Bookmarks](https://github.com/inseven/bookmarks)—Pinboard client for iOS and macOS
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
 - [Locate](https://github.com/jbmorley/locate)—Show URLs on a map
 - [Multifolder](https://github.com/inseven/multifolder)—Utility for adding multiple folders to macOS Smart Folders
