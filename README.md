@@ -45,7 +45,7 @@
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)—Download the current bing.com image to a directory, optionally setting it as the desktop
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 - [Photos Scripts](https://github.com/jbmorley/photos-scripts)—Automation Scripts for Photos.app
-- [Reporter](https://github.com/inseven/reporter)---File change report generator for macOS and Linux a with built-in mailer
+- [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 - [update-dns](https://github.com/jbmorley/update-dns)—Cloudflare Dynamic DNS Updater
 
 # Libraries
