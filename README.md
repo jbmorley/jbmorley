@@ -73,8 +73,8 @@
 
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
-- [InJapan](https://github.com/jbmorley/InJapan)---Mac OS X Dashboard countdown widget
-- [InModem](https://github.com/jbmorley/inmodem)---System-tray application for controlling an AirPort Extreme modem
+- [InJapan](https://github.com/jbmorley/InJapan)—Mac OS X Dashboard countdown widget
+- [InModem](https://github.com/jbmorley/inmodem)—Windows System Tray application for controlling an AirPort Extreme modem
 - [Locate](https://github.com/jbmorley/locate)—Show URLs on a map
 - [Multifolder](https://github.com/inseven/multifolder)—Utility for adding multiple folders to macOS Smart Folders
 - [Photo Export](https://github.com/jbmorley/photo-export)—macOS utility for exporting photos from Apple Photos
