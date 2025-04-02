@@ -71,7 +71,7 @@
 
 # Archive
 
-- [Bookmarks](https://github.com/inseven/bookmarks)—visual Pinboard client for macOS, iOS and iPadOS
+- [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
 - [Locate](https://github.com/jbmorley/locate)—Show URLs on a map
 - [Multifolder](https://github.com/inseven/multifolder)—Utility for adding multiple folders to macOS Smart Folders
