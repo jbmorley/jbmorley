@@ -28,7 +28,6 @@
 - [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools for iOS and macOS development
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
-- [github-status](https://github.com/jbmorley/github-status)—Light-weight command line utility for showing the status of GitHub projects
 - [InContext](https://github.com/inseven/incontext)—Extensible static site generator
 
 # Archival Tools
@@ -72,6 +71,7 @@
 
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
+- [github-status](https://github.com/jbmorley/github-status)—Light-weight command line utility for showing the status of GitHub projects
 - [InJapan](https://github.com/jbmorley/InJapan)—Mac OS X Dashboard countdown widget
 - [InModem](https://github.com/jbmorley/inmodem)—Windows System Tray application for controlling an AirPort Extreme modem
 - [Locate](https://github.com/jbmorley/locate)—Show URLs on a map
