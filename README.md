@@ -34,7 +34,6 @@
 
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
-- [Signal Backup](https://github.com/jbmorley/signal-backup)—Backup and Decrypt Signal Desktop Message History
 
 # Utilities
 
@@ -77,4 +76,6 @@
 - [Locate](https://github.com/jbmorley/locate)—Show URLs on a map
 - [Multifolder](https://github.com/inseven/multifolder)—Utility for adding multiple folders to macOS Smart Folders
 - [Photo Export](https://github.com/jbmorley/photo-export)—macOS utility for exporting photos from Apple Photos
+- [Signal Backup](https://github.com/jbmorley/signal-backup)—Backup and Decrypt Signal Desktop Message History
+- [Transmogrify](https://github.com/jbmorley/transmogrify)—Folder Action for transcoding movies to iPod, iTunes and Apple TV formats
 - [update-dns](https://github.com/jbmorley/update-dns)—Cloudflare Dynamic DNS Updater
