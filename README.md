@@ -61,7 +61,7 @@
 ## Web
 
 - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript Pattern Rendering Library
-- [Writeme](https://github.com/jbmorley/writeme)
+- [Writeme](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
 - [x-chart](https://github.com/jbmorley/x-chart)—HTML Extensions for Generating Chart.js Charts
 
 ---
