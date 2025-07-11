@@ -23,17 +23,13 @@
 - [Thermal Printer Remix](https://github.com/jbmorley/thermal-printer)—Remixed Raspberry Pi Receipt Printer
 - [TinyBoard](https://github.com/inseven/tinyboard)—Bluetooth USB keyboard proxy
 
-# Development Tools
+# Developer Tools
 
 - [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools for iOS and macOS development
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
+- [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
 - [InContext](https://github.com/inseven/incontext)—Extensible static site generator
-
-# Archival Tools
-
-- [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
-- [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
 
 # Utilities
 
@@ -41,6 +37,7 @@
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)—Download the current bing.com image to a directory, optionally setting it as the desktop
+- [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 
