@@ -6,6 +6,7 @@
 - [Fileaway](https://github.com/inseven/fileaway)—Document management app for iOS and macOS
 - [Folders](https://github.com/inseven/folders)—Library app for macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)—Game Boy Color Emulator for iOS
+- [InContext](https://github.com/inseven/incontext)—Extensible static site generator
 - [OpoLua](https://github.com/inseven/opolua)—A compiled-OPL interpreter for iOS written in Lua
 - [Overview](https://github.com/inseven/overview)—Generate monthly durations for similarly named calendar events
 - [Reconnect](https://github.com/inseven/reconnect)—Psion connectivity for macOS
@@ -29,7 +30,6 @@
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
-- [InContext](https://github.com/inseven/incontext)—Extensible static site generator
 
 # Utilities
 
