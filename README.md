@@ -37,7 +37,6 @@
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)—Download the current bing.com image to a directory, optionally setting it as the desktop
-- [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 
@@ -65,6 +64,7 @@
 # Archive
 
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
+- [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
 - [github-status](https://github.com/jbmorley/github-status)—Light-weight command line utility for showing the status of GitHub projects
 - [InJapan](https://github.com/jbmorley/InJapan)—Mac OS X Dashboard countdown widget
