@@ -11,6 +11,7 @@
 - [Overview](https://github.com/inseven/overview)—Generate monthly durations for similarly named calendar events
 - [Reconnect](https://github.com/inseven/reconnect)—Psion connectivity for macOS
 - [Thoughts](https://github.com/inseven/thoughts)—Lightweight note taking for macOS
+- [WriteMe](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
 
 # Hardware
 
@@ -44,7 +45,6 @@
 
 - **JavaScript**
   - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript pattern rendering library
-  - [WriteMe](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
   - [x-chart](https://github.com/jbmorley/x-chart)—HTML Extensions for Generating Chart.js Charts
 - **Python**
   - [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
