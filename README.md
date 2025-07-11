@@ -44,7 +44,7 @@
 
 - **Python**
   - [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
-- **SwiftUI**
+- **Swift**
   - [Diligence](https://github.com/inseven/diligence)—SwiftUI About Screens
   - [Interact](https://github.com/jbmorley/interact)—SwiftUI conveniences for iOS and macOS
   - [SelectableCollectionView](https://github.com/inseven/SelectableCollectionView)—SwiftUI collection view with selection support
