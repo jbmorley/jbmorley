@@ -42,6 +42,10 @@
 
 # Libraries
 
+- **JavaScript**
+  - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript Pattern Rendering Library
+  - [Writeme](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
+  - [x-chart](https://github.com/jbmorley/x-chart)—HTML Extensions for Generating Chart.js Charts
 - **Python**
   - [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
 - **Swift**
@@ -49,10 +53,6 @@
   - [Interact](https://github.com/jbmorley/interact)—SwiftUI conveniences for iOS and macOS
   - [SelectableCollectionView](https://github.com/inseven/SelectableCollectionView)—SwiftUI collection view with selection support
   - [TagField](https://github.com/jbmorley/TagField)—SwiftUI tag field for macOS and iOS
-- **Web**
-  - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript Pattern Rendering Library
-  - [Writeme](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
-  - [x-chart](https://github.com/jbmorley/x-chart)—HTML Extensions for Generating Chart.js Charts
 
 ---
 
