@@ -1,6 +1,6 @@
 👋🏻 Hi, I'm Jason. I create things. Check out my [website](https://jbmorley.co.uk) if you're interested in me, the ideas behind my software and hardware projects, and what I get up to elsewhere in life. Otherwise, take a look at some of the things I've done around here.
 
-# Apps
+# Apps and Web
 
 - [Builds](https://github.com/inseven/builds)—GitHub Actions status board for macOS and iOS
 - [Fileaway](https://github.com/inseven/fileaway)—Document management app for iOS and macOS
