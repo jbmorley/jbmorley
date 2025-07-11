@@ -45,7 +45,7 @@
 
 - **JavaScript**
   - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript pattern rendering library
-  - [x-chart](https://github.com/jbmorley/x-chart)—HTML Extensions for generating Chart.js charts
+  - [x-chart](https://github.com/jbmorley/x-chart)—HTML extensions for generating Chart.js charts
 - **Python**
   - [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
 - **Swift**
