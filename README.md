@@ -59,6 +59,8 @@
 
 # Archive
 
+Some of the projects I'm no longer working on and have archived. A number of these complete and fully functional, but I either don't have the time to work on them any more, or the platforms they target are no longer current. YMMV.
+
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
