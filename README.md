@@ -34,7 +34,6 @@
 
 # Utilities
 
-- [configure-prompt](https://github.com/jbmorley/configure-prompt)—Minimal Prompt for Zsh
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)—Download the current bing.com image to a directory, optionally setting it as the desktop
@@ -62,6 +61,7 @@
 Some of the projects I'm no longer working on and have archived. A number of these are complete and fully functional, but I either don't have the time to work on them any more, or the platforms they target are no longer current. YMMV.
 
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
+- [configure-prompt](https://github.com/jbmorley/configure-prompt)—Minimal Prompt for Zsh
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
 - [github-status](https://github.com/jbmorley/github-status)—Light-weight command line utility for showing the status of GitHub projects
