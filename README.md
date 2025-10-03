@@ -25,18 +25,15 @@
 - [Thermal Printer Remix](https://github.com/jbmorley/thermal-printer)—Remixed Raspberry Pi Receipt Printer
 - [TinyBoard](https://github.com/inseven/tinyboard)—Bluetooth USB keyboard proxy
 
-# Developer Tools
+# Utilities
 
 - [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools for iOS and macOS development
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for working with Conventional Commits and Semantic Versioning
-- [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
-- [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
-
-# Utilities
-
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
+- [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
+- [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 
 # Libraries
