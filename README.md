@@ -9,6 +9,7 @@
 - [InContext](https://github.com/inseven/incontext)—Extensible static site generator
 - [OpoLua](https://github.com/inseven/opolua)—A compiled-OPL interpreter for iOS written in Lua
 - [Overview](https://github.com/inseven/overview)—Generate monthly durations for similarly named calendar events
+- [Psion Screen Saver](https://github.com/inseven/psion-screen-saver)—Retro screen saver for macOS
 - [Reconnect](https://github.com/inseven/reconnect)—Psion connectivity for macOS
 - [Thoughts](https://github.com/inseven/thoughts)—Lightweight note taking for macOS
 - [WriteMe](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
