@@ -33,7 +33,7 @@
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
-- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML Format (.enx) to the Netscape Bookmark File Format (bookmarks.html)
+- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML files to the Netscape Bookmark files
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 
