@@ -69,6 +69,7 @@ Some of the projects I'm no longer working on and have archived. A number of the
 - [Multifolder](https://github.com/inseven/multifolder)—Utility for adding multiple folders to macOS Smart Folders
 - [Photo Export](https://github.com/jbmorley/photo-export)—macOS utility for exporting photos from Apple Photos
 - [Photos Scripts](https://github.com/jbmorley/photos-scripts)—Automation Scripts for Photos.app
+- [PsionSoftwareIndexSwift](https://github.com/inseven/PsionSoftwareIndexSwift)—Swift package for embedding the Psion Software Index in iOS and macOS apps
 - [Signal Backup](https://github.com/jbmorley/signal-backup)—Backup and Decrypt Signal Desktop Message History
 - [Transmogrify](https://github.com/jbmorley/transmogrify)—Folder Action for transcoding movies to iPod, iTunes and Apple TV formats
 - [update-dns](https://github.com/jbmorley/update-dns)—Cloudflare Dynamic DNS Updater
