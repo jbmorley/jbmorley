@@ -35,6 +35,7 @@
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
 - [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML files to the Netscape Bookmark files
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
+- [PsiEmu](https://codeberg.org/psion/psiemu)—Lightweight TUI launcher for Psion MAME emulators
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
 
 # Libraries
