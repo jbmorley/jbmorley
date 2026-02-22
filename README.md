@@ -43,7 +43,7 @@
 - **JavaScript**
   - [pattern.js](https://github.com/jbmorley/patternjs)—JavaScript pattern rendering library
   - [x-chart](https://github.com/jbmorley/x-chart)—HTML extensions for generating Chart.js charts
-  - [OPL for Highlight.js](https://github.com/jbmorley/highlightjs-opl)---OPL syntax highlighting for highlight.js
+  - [OPL for Highlight.js](https://github.com/jbmorley/highlightjs-opl)—OPL syntax highlighting for highlight.js
 - **Python**
   - [fastcommand](https://github.com/jbmorley/fastcommand)—Python module for defining multi-command CLI programs
 - **Swift**
