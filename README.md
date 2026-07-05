@@ -11,6 +11,7 @@
 - [Overview](https://github.com/inseven/overview)—Generate monthly durations for similarly named calendar events
 - [Psion Screen Saver](https://github.com/inseven/psion-screen-saver)—Retro screen saver for macOS
 - [Reconnect](https://github.com/inseven/reconnect)—Psion connectivity for macOS
+- [TailLight](https://github.com/inseven/taillight)—Utility for Managing the Microsoft Pro IntelliMouse Taillight
 - [Thoughts](https://github.com/inseven/thoughts)—Lightweight note taking for macOS
 - [WriteMe](https://github.com/jbmorley/writeme)—Send doodles to my receipt printer
 
