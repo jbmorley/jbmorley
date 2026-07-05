@@ -51,6 +51,7 @@
   - [Diligence](https://github.com/inseven/diligence)—SwiftUI about screens
   - [FrontmatterSwift](https://github.com/jbmorley/FrontmatterSwift)—Frontmatter library for Swift
   - [Interact](https://github.com/jbmorley/interact)—SwiftUI conveniences for iOS and macOS
+  - [Licensable](https://github.com/inseven/licensable)—Lightweight Swift API for exporting license information
   - [SelectableCollectionView](https://github.com/inseven/SelectableCollectionView)—SwiftUI collection view with selection support
   - [TagField](https://github.com/jbmorley/TagField)—SwiftUI tag field for macOS and iOS
 
