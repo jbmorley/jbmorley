@@ -29,7 +29,7 @@
 
 # Utilities
 
-- [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools for iOS and macOS development
+- [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for using Conventional Commits and Semantic Versioning with Git
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
 - [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
