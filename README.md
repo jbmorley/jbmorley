@@ -31,9 +31,7 @@
 
 - [build-tools](https://github.com/jbmorley/build-tools)—Collection of convenience build tools
 - [changes](https://github.com/jbmorley/changes)—Lightweight and unopinionated tool for using Conventional Commits and Semantic Versioning with Git
-- [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-github-releases](https://github.com/jbmorley/download-github-releases)—Script to download all the releases for a GitHub project
-- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML files to the Netscape Bookmark files
 - [git-tools](https://github.com/jbmorley/git-tools)—Git Aliases and Commands
 - [PsiEmu](https://codeberg.org/psion/psiemu)—Lightweight TUI launcher for Psion MAME emulators
 - [Reporter](https://github.com/inseven/reporter)—File change report generator for macOS and Linux a with built-in mailer
@@ -63,8 +61,10 @@ Some of the projects I'm no longer working on and have archived. A number of the
 - [Bookmarks](https://github.com/inseven/bookmarks)—Visual Pinboard client for macOS, iOS and iPadOS
 - [configure-prompt](https://github.com/jbmorley/configure-prompt)—Minimal Prompt for Zsh
 - [configure-raspberry-pi](https://github.com/jbmorley/configure-raspberry-pi)—Interactive script for configuring a Raspberry Pi boot partition
+- [day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown)—Convert Day One journal entries to Markdown and Front Matter
 - [download-bing-image](https://github.com/jbmorley/download-bing-image)—Download the current bing.com image to a directory, optionally setting it as the desktop
 - [download-bookmarks](https://github.com/jbmorley/download-bookmarks)—Generate archives for all your Pinboard bookmarks
+- [evernote-bookmarks](https://github.com/jbmorley/evernote-bookmarks)—Convert Evernote XML files to the Netscape Bookmark files
 - [Flutter](https://github.com/jbmorley/flutter)—JavaScript Twitter client
 - [github-status](https://github.com/jbmorley/github-status)—Light-weight command line utility for showing the status of GitHub projects
 - [InJapan](https://github.com/jbmorley/InJapan)—Mac OS X Dashboard countdown widget
