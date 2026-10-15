@@ -4,7 +4,6 @@
 
 - [Builds](https://github.com/inseven/builds)—GitHub Actions status board for macOS and iOS
 - [Fileaway](https://github.com/inseven/fileaway)—Document management app for iOS and macOS
-- [Folders](https://github.com/inseven/folders)—Library app for macOS
 - [Game Play Color](https://github.com/gameplaycolor/gameplaycolor)—Game Boy Color Emulator for iOS
 - [InContext](https://github.com/inseven/incontext)—Extensible static site generator
 - [OpoLua](https://github.com/inseven/opolua)—A compiled-OPL interpreter for iOS written in Lua
